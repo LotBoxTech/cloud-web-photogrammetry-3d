@@ -1,4 +1,4 @@
-# MESHROOM cli on web!
+# MESHROOM in a Web UI
 Web client to interact with the meshroom cli
 
 # Commands
